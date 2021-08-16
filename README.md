@@ -32,7 +32,7 @@ More tension in my brain than a string between 2000KG boxes :)
 
 <h3 align="left">For Video Editing:</h3>
 <p align="left">
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="file:///Users/pradeep.dwivedi/Downloads/after-effects-2019.svg" alt="xd" width="40" height="40"/> </a> </p>
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/after-effects-2019.svg" alt="Ae" width="40" height="40"/> </a> </p>
 
 <!---
 Azazelcodes/Azazelcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

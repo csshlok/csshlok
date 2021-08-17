@@ -1,4 +1,4 @@
-<img src="https://github.com/Azazelcodes/Azazelcodes/blob/main/finalbanner.png" alt="Banner">
+<img src="https://github.com/Azazelcodes/Azazelcodes/blob/main/finalbanner.png" alt="Banner" width = 1000 height = 500>
 
 
 - 👋 Hi, I’m @Azazelcodes

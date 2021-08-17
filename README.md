@@ -1,6 +1,6 @@
 <img src="https://github.com/Azazelcodes/Azazelcodes/blob/main/finalbanner.png" alt="Banner" width = 1000 height = 500>
 
-<h1 align="centre"> Hi! 👋🏻 I'm Shlok </h1>
+<h1 align="center">Hi 👋, I'm Shlok Dwivedi</h1>
 
 - 👋 Hi, I’m @Azazelcodes
 - 👀 I’m interested in Python and Js

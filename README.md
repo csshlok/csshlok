@@ -40,6 +40,7 @@ More tension in my brain than a string between 2000KG boxes :)
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg" alt="Ps" width="40" height="40"/> </a>
 <a href="https://www.apple.com/in/final-cut-pro/" target="_blank"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/final-cut-pro-x-logo.png" alt="FCPX" width="40" height="40"/> </a>
 <a href="https://www.blender.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="Blender" width="40" height="40"/> </a>
+<a href="https://www.blender.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="Blender" width="40" height="40"/> </a>
 </p>
 
 <!---

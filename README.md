@@ -63,6 +63,8 @@ More tension in my brain than a string between 2000KG boxes :)
 
 ### Stats
 [![Shlok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azazelcodes)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azazelcodes)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 

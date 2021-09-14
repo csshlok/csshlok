@@ -16,6 +16,21 @@ More tension in my brain than a string between 2000KG boxes :)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jnl6pjpx3m8kbzlcw8h7v2dcp&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=jnl6pjpx3m8kbzlcw8h7v2dcp&redirect=true)
 
+### Connect with me
+
+<a href="https://www.linkedin.com/in/shlok-dwivedi-957b8b1b2/" target="_blank" rel="noopener noreferrer" >
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/shlok.prproj/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+</a>&nbsp;&nbsp;
+<a href="https://discord.gg/HVwMZvt6" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />        
+</a>&nbsp;&nbsp;
+<a href="mailto:shlokdwivedi09@gmail.com" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+</a>&nbsp;&nbsp;
+
 <h2 align="left">Languages, Softwares and Tools I use:</h2>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 

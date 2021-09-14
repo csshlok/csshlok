@@ -61,6 +61,11 @@ More tension in my brain than a string between 2000KG boxes :)
 <a href="https://www.blackmagicdesign.com/products/davinciresolve/whatsnew" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/davinci-resolve-12.svg" alt="DaVinci" width="40" height="40"/> </a>
 </p>
 
+### Stats
+[![Shlok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azazelcodes)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <h3 align ="left">My website is coming soon </h3>
 
 <!---

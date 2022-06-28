@@ -1,4 +1,4 @@
-<img src="https://github.com/Azazelcodes/Azazelcodes/blob/main/finalbanner.png" alt="Banner" width = 1000 height = 500>
+<img src="https://github.com/Azazelcodes/Azazelcodes/blob/main/retro%20shlok%20banner.png" alt="Banner" width = 1000 height = 500>
 
 <h1 align="center">Hi 👋, I'm Shlok Dwivedi</h1>
 

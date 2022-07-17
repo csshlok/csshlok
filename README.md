@@ -34,13 +34,13 @@ More tension in my brain than a string between 2000KG boxes :)
 </p>
 
 ### Stats
-[![Shlok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azazelcodes)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azazelcodes)](https://github.com/anuraghazra/github-readme-stats)
+[![Shlok's GitHub stats](https://github-readme-stats.vercel.app/api?username=csshlok)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csshlok)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-![Profile views](https://gpvc.arturio.dev/Azazelcodes)
-<h3 align ="left">My website is coming soon </h3>
+![Profile views](https://gpvc.arturio.dev/cssshlok)
+<h3 align ="left">My website: csshlok.hithub.io </h3>
 
 <!---
 Azazelcodes/Azazelcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

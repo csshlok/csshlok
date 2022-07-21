@@ -40,7 +40,7 @@ More tension in my brain than a string between 2000KG boxes :)
 
 
 ![Profile views](https://gpvc.arturio.dev/cssshlok)
-<h3 align ="left">My website: csshlok.github.io </h3>
+
 
 <!---
 Azazelcodes/Azazelcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

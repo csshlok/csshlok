@@ -41,7 +41,7 @@ More tension in my brain than a string between 2000KG boxes :)
 
 ![Profile views](https://gpvc.arturio.dev/cssshlok)
 
-<a href="/csshlok.github.io" title="My website">Check out my website!</a>
+<button onclick="document.location='https://csshlok.github.io'">My website</button>
 
 <!---
 Azazelcodes/Azazelcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

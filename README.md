@@ -31,6 +31,8 @@ More tension in my brain than a string between 2000KG boxes :)
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
 </a>&nbsp;&nbsp;
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jnl6pjpx3m8kbzlcw8h7v2dcp&cover_image=true&theme=natemoo-re&bar_color=ff0000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 </p>
 
 

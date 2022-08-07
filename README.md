@@ -14,7 +14,7 @@ Drifting off in space....
 
 More tension in my brain than a string between 2000KG boxes :)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jnl6pjpx3m8kbzlcw8h7v2dcp&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=jnl6pjpx3m8kbzlcw8h7v2dcp&redirect=true)
+
 
 ### Connect with me
 

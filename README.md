@@ -1,6 +1,3 @@
-Below is a ready-to-paste `README.md`. It prioritizes your strongest verified work, measurable outcomes, and current technical direction without exposing résumé-internal or pending information. Repository links were checked against your current [GitHub profile](https://github.com/csshlok).
-
-```markdown
 # Hi, I'm Shlok Dwivedi
 
 I'm a Computer Science senior in Virginia Tech's DCC program, minoring in Data and Decisions Sciences.
